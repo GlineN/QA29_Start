@@ -82,7 +82,7 @@ public class StartSelenium {
     public void postCondition(){
         //close browser +www
         // close the window
-       // wd.close();
+        // wd.close();
         //close all
         wd.quit();
     }
